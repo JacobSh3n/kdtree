@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/KDTree.dir/kdmygod.cpp.o -o KDTree 
