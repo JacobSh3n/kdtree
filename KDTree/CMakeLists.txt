@@ -5,4 +5,4 @@ cmake_minimum_required (VERSION 2.8)
 project (KDTree)
 
 # 指定生成目标
-add_executable(KDTree main.cc)
+add_executable(KDTree kdmygod.ccp)
